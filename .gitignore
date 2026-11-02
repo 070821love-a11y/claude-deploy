@@ -16,5 +16,4 @@ Thumbs.db
 .vscode/
 .idea/
 # Claude 설정 파일
-.claude/
 .claude.zip
